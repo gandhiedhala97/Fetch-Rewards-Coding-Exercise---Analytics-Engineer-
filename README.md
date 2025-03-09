@@ -6,3 +6,4 @@ This repository contains my submission for the Fetch Rewards Coding Exercise. It
 2. SQL Queries: Queries to answer key business questions.
 3. Data Quality Issues: Identification and documentation of data quality issues.
 4. Findings: Insights and recommendations based on the analysis.
+5. Email to the stakeholders
